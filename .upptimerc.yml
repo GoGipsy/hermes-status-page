@@ -8,7 +8,7 @@ sites:
     headers:
       - "x-api-key: $STATUS_PAGE_KEY_DEV"
     assignees:
-      - GoGipsy/arara-comms
+      - pieropinzon-arara
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
