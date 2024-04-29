@@ -4,19 +4,19 @@
     "url": "https://api-dev.araraholding.com/api/comms/health",
     "icon": "https://icons.duckduckgo.com/ip3/api-dev.araraholding.com.ico",
     "slug": "communications-dev",
-    "status": "down",
-    "uptime": "97.34%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.34%",
-    "uptimeMonth": "97.34%",
-    "uptimeYear": "97.34%",
+    "status": "up",
+    "uptime": "97.25%",
+    "uptimeDay": "99.41%",
+    "uptimeWeek": "97.25%",
+    "uptimeMonth": "97.25%",
+    "uptimeYear": "97.25%",
     "time": 200,
-    "timeDay": 113,
+    "timeDay": 156,
     "timeWeek": 200,
     "timeMonth": 200,
     "timeYear": 200,
     "dailyMinutesDown": {
-      "2024-04-29": 0,
+      "2024-04-29": 8,
       "2024-04-25": 229
     }
   }
