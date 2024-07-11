@@ -10,6 +10,24 @@ sites:
     assignees:
       - pieropinzon-arara
 
+  - name: Payments Dev
+    url: https://api-dev.araraholding.com/payments/v1/internal/healthcheck
+    headers:
+      - "x-api-key: $STATUS_PAGE_KEY_DEV"
+    assignees:
+      - pieropinzon-arara
+      - bruno-gipsyy
+      - MarcildoBarros
+
+  - name: Payments Prod
+    url: https://api.araraholding.com/payments/v1/internal/healthcheck
+    headers:
+      - "x-api-key: $STATUS_PAGE_KEY_PROD"
+    assignees:
+      - pieropinzon-arara
+      - bruno-gipsyy
+      - MarcildoBarros
+
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
