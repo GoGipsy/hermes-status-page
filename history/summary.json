@@ -4,9 +4,9 @@
     "url": "https://api-dev.araraholding.com/api/comms/health",
     "icon": "https://icons.duckduckgo.com/ip3/api-dev.araraholding.com.ico",
     "slug": "communications-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "98.69%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.03%",
     "uptimeYear": "98.69%",
@@ -16,6 +16,7 @@
     "timeMonth": 194,
     "timeYear": 201,
     "dailyMinutesDown": {
+      "2024-08-07": 0,
       "2024-07-10": 424,
       "2024-06-30": 37,
       "2024-06-28": 743,
@@ -30,7 +31,7 @@
     "url": "https://api-dev.araraholding.com/payments/v1/internal/healthcheck",
     "icon": "https://icons.duckduckgo.com/ip3/api-dev.araraholding.com.ico",
     "slug": "payments-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -41,7 +42,9 @@
     "timeWeek": 30,
     "timeMonth": 29,
     "timeYear": 29,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-07": 0
+    }
   },
   {
     "name": "Payments Prod",
