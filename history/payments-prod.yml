@@ -1,7 +1,7 @@
 url: https://api.araraholding.com/payments/v1/internal/healthcheck
 status: up
 code: 200
-responseTime: 99
-lastUpdated: 2024-08-16T23:02:32.222Z
+responseTime: 267
+lastUpdated: 2024-08-17T23:02:42.663Z
 startTime: 2024-07-11T20:43:59.616Z
 generator: Upptime <https://github.com/upptime/upptime>
