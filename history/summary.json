@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api-dev.araraholding.com.ico",
     "slug": "communications-dev",
     "status": "up",
-    "uptime": "99.12%",
+    "uptime": "99.13%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.12%",
-    "time": 209,
-    "timeDay": 146,
+    "uptimeYear": "99.13%",
+    "time": 208,
+    "timeDay": 153,
     "timeWeek": 235,
-    "timeMonth": 220,
-    "timeYear": 209,
+    "timeMonth": 221,
+    "timeYear": 208,
     "dailyMinutesDown": {
       "2024-08-07": 30,
       "2024-07-10": 424,
@@ -37,11 +37,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 35,
-    "timeDay": 9,
+    "time": 34,
+    "timeDay": 11,
     "timeWeek": 36,
     "timeMonth": 38,
-    "timeYear": 35,
+    "timeYear": 34,
     "dailyMinutesDown": {
       "2024-08-07": 30
     }
@@ -52,18 +52,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.araraholding.com.ico",
     "slug": "payments-prod",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 233,
-    "timeDay": 178,
-    "timeWeek": 272,
+    "timeDay": 205,
+    "timeWeek": 271,
     "timeMonth": 249,
     "timeYear": 233,
-    "dailyMinutesDown": {
-      "2024-10-01": 8
-    }
+    "dailyMinutesDown": {}
   }
 ]
