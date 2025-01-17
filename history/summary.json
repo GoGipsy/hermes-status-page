@@ -6,7 +6,7 @@
     "slug": "communications-dev",
     "status": "up",
     "uptime": "98.35%",
-    "uptimeDay": "92.86%",
+    "uptimeDay": "93.46%",
     "uptimeWeek": "57.14%",
     "uptimeMonth": "90.14%",
     "uptimeYear": "98.35%",
@@ -38,7 +38,7 @@
     "slug": "payments-dev",
     "status": "up",
     "uptime": "98.41%",
-    "uptimeDay": "92.86%",
+    "uptimeDay": "93.46%",
     "uptimeWeek": "57.25%",
     "uptimeMonth": "90.16%",
     "uptimeYear": "98.41%",
@@ -60,19 +60,19 @@
     "url": "https://api.araraholding.com/payments/v1/internal/healthcheck",
     "icon": "https://icons.duckduckgo.com/ip3/api.araraholding.com.ico",
     "slug": "payments-prod",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 226,
-    "timeDay": 384,
-    "timeWeek": 223,
-    "timeMonth": 210,
-    "timeYear": 226,
+    "time": 225,
+    "timeDay": 248,
+    "timeWeek": 209,
+    "timeMonth": 207,
+    "timeYear": 225,
     "dailyMinutesDown": {
-      "2025-01-17": 0
+      "2025-01-17": 9
     }
   }
 ]
