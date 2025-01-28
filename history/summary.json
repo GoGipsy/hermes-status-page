@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "90.14%",
     "uptimeYear": "98.41%",
-    "time": 204,
-    "timeDay": 134,
-    "timeWeek": 223,
-    "timeMonth": 197,
-    "timeYear": 204,
+    "time": 205,
+    "timeDay": 370,
+    "timeWeek": 257,
+    "timeMonth": 207,
+    "timeYear": 205,
     "dailyMinutesDown": {
       "2025-01-16": 1220,
       "2025-01-15": 1440,
@@ -43,9 +43,9 @@
     "uptimeMonth": "90.16%",
     "uptimeYear": "98.49%",
     "time": 41,
-    "timeDay": 6,
-    "timeWeek": 42,
-    "timeMonth": 95,
+    "timeDay": 73,
+    "timeWeek": 49,
+    "timeMonth": 98,
     "timeYear": 41,
     "dailyMinutesDown": {
       "2025-01-16": 1220,
@@ -62,17 +62,15 @@
     "slug": "payments-prod",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 225,
-    "timeDay": 165,
-    "timeWeek": 224,
-    "timeMonth": 212,
+    "timeDay": 231,
+    "timeWeek": 251,
+    "timeMonth": 220,
     "timeYear": 225,
-    "dailyMinutesDown": {
-      "2025-01-27": 8
-    }
+    "dailyMinutesDown": {}
   }
 ]
