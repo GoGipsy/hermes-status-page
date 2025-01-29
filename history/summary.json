@@ -60,19 +60,19 @@
     "url": "https://api.araraholding.com/payments/v1/internal/healthcheck",
     "icon": "https://icons.duckduckgo.com/ip3/api.araraholding.com.ico",
     "slug": "payments-prod",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.21%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 225,
-    "timeDay": 179,
-    "timeWeek": 226,
-    "timeMonth": 218,
-    "timeYear": 225,
+    "time": 224,
+    "timeDay": 163,
+    "timeWeek": 217,
+    "timeMonth": 215,
+    "timeYear": 224,
     "dailyMinutesDown": {
-      "2025-01-29": 0
+      "2025-01-29": 11
     }
   }
 ]
