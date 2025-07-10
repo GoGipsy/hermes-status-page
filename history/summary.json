@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.08%",
     "time": 207,
-    "timeDay": 188,
-    "timeWeek": 233,
-    "timeMonth": 220,
-    "timeYear": 207,
+    "timeDay": 376,
+    "timeWeek": 270,
+    "timeMonth": 224,
+    "timeYear": 208,
     "dailyMinutesDown": {
       "2025-05-13": 15,
       "2025-03-05": 16,
@@ -23,8 +23,7 @@
       "2025-01-14": 1440,
       "2025-01-13": 221,
       "2024-10-24": 31,
-      "2024-08-07": 30,
-      "2024-07-10": 424
+      "2024-08-07": 30
     }
   },
   {
@@ -33,15 +32,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/api-dev.araraholding.com.ico",
     "slug": "payments-dev",
     "status": "up",
-    "uptime": "99.16%",
+    "uptime": "99.17%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.16%",
+    "uptimeYear": "99.17%",
     "time": 36,
-    "timeDay": 28,
-    "timeWeek": 39,
-    "timeMonth": 34,
+    "timeDay": 75,
+    "timeWeek": 49,
+    "timeMonth": 35,
     "timeYear": 36,
     "dailyMinutesDown": {
       "2025-03-05": 16,
@@ -64,9 +63,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 222,
-    "timeDay": 131,
-    "timeWeek": 259,
-    "timeMonth": 227,
+    "timeDay": 348,
+    "timeWeek": 279,
+    "timeMonth": 228,
     "timeYear": 222,
     "dailyMinutesDown": {}
   }
