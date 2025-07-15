@@ -1,7 +1,7 @@
 url: https://api-dev.araraholding.com/api/comms/health
-status: up
-code: 200
-responseTime: 150
-lastUpdated: 2025-07-14T23:03:02.740Z
+status: down
+code: 503
+responseTime: 233
+lastUpdated: 2025-07-15T19:31:22.698Z
 startTime: 2024-04-23T19:30:47.218Z
 generator: Upptime <https://github.com/upptime/upptime>
