@@ -1,7 +1,7 @@
 url: https://api-dev.araraholding.com/payments/v1/internal/healthcheck
 status: down
 code: 503
-responseTime: 55
-lastUpdated: 2025-08-17T23:03:00.996Z
+responseTime: 4
+lastUpdated: 2025-08-18T23:02:48.815Z
 startTime: 2024-07-11T20:43:59.170Z
 generator: Upptime <https://github.com/upptime/upptime>
