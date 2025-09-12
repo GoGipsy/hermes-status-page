@@ -1,7 +1,7 @@
 url: prod-hermes-api.smarttravelit.com/hermes-routes/internal/health
-status: down
-code: 401
-responseTime: 108
-lastUpdated: 2025-09-12T15:53:38.856Z
+status: up
+code: 200
+responseTime: 58
+lastUpdated: 2025-09-12T16:07:31.028Z
 startTime: 2025-09-12T15:53:38.503Z
 generator: Upptime <https://github.com/upptime/upptime>
