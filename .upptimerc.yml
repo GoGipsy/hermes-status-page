@@ -1,45 +1,34 @@
 # Change these first
 owner: GoGipsy # Your GitHub organization or username, where this repository lives
-repo: arara-status-page # The name of this repository
+repo: hermes-status-page # The name of this repository
 
 sites:
-  - name: Communications dev
-    url: https://api-dev.araraholding.com/api/comms/health
-    headers:
-      - "x-api-key: $STATUS_PAGE_KEY_DEV"
-    assignees:
-      - pieropinzon-arara
-
-  - name: Payments Dev
-    url: https://api-dev.araraholding.com/payments/v1/internal/healthcheck
-    headers:
-      - "x-api-key: $STATUS_PAGE_KEY_DEV"
-    assignees:
-      - pieropinzon-arara
-      - bruno-gipsyy
-      - MarcildoBarros
-
-  - name: Payments Prod
-    url: https://api.araraholding.com/payments/v1/internal/healthcheck
-    headers:
-      - "x-api-key: $STATUS_PAGE_KEY_PROD"
-    assignees:
-      - pieropinzon-arara
-      - bruno-gipsyy
-      - MarcildoBarros
+  - name: Google
+    url: https://www.google.com
+  - name: Wikipedia
+    url: https://en.wikipedia.org
+  - name: Hacker News
+    url: https://news.ycombinator.com
+  - name: Test Broken Site
+    url: https://thissitedoesnotexist.koj.co
+  - name: IPv6 test
+    url: forwardemail.net
+    port: 80
+    check: "tcp-ping"
+    ipv6: true
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   #cname: demo.upptime.js.org
-  baseUrl: /arara-status-page
+  baseUrl: /hermes-status-page
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Arara Status Page
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: Hermes Status Page
+  introTitle: "**Hermes Status Page** - Microservices Monitoring"
+  introMessage: This status page monitors the Hermes microservices **in real time**. Data is continuously updated from our [GitHub repository](https://github.com/GoGipsyy/hermes-status-page).
   navbar:
     - title: Status
-      href: /arara-status-page/
+      href: /hermes-status-page/
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
