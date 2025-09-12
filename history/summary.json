@@ -4,19 +4,19 @@
     "url": "prod-hermes-api.smarttravelit.com/hermes-lines/internal/health",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "lines-api",
-    "status": "down",
-    "uptime": "4.39%",
-    "uptimeDay": "4.39%",
-    "uptimeWeek": "4.39%",
-    "uptimeMonth": "4.39%",
-    "uptimeYear": "4.39%",
-    "time": 583,
-    "timeDay": 583,
-    "timeWeek": 583,
-    "timeMonth": 583,
-    "timeYear": 583,
+    "status": "up",
+    "uptime": "1.67%",
+    "uptimeDay": "1.67%",
+    "uptimeWeek": "1.67%",
+    "uptimeMonth": "1.67%",
+    "uptimeYear": "1.67%",
+    "time": 420,
+    "timeDay": 420,
+    "timeWeek": 420,
+    "timeMonth": 420,
+    "timeYear": 420,
     "dailyMinutesDown": {
-      "2025-09-12": 0
+      "2025-09-12": 14
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "routes-api",
     "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
+    "uptime": "1.29%",
+    "uptimeDay": "1.29%",
+    "uptimeWeek": "1.29%",
+    "uptimeMonth": "1.29%",
+    "uptimeYear": "1.29%",
     "time": 108,
     "timeDay": 108,
     "timeWeek": 108,
     "timeMonth": 108,
     "timeYear": 108,
     "dailyMinutesDown": {
-      "2025-09-12": 0
+      "2025-09-12": 14
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "prod-hermes-api.smarttravelit.com/hermes-sales/internal/health",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "sales-api",
-    "status": "down",
-    "uptime": "0.39%",
-    "uptimeDay": "0.39%",
-    "uptimeWeek": "0.39%",
-    "uptimeMonth": "0.39%",
-    "uptimeYear": "0.39%",
-    "time": 109,
-    "timeDay": 109,
-    "timeWeek": 109,
-    "timeMonth": 109,
-    "timeYear": 109,
+    "status": "up",
+    "uptime": "0.96%",
+    "uptimeDay": "0.96%",
+    "uptimeWeek": "0.96%",
+    "uptimeMonth": "0.96%",
+    "uptimeYear": "0.96%",
+    "time": 85,
+    "timeDay": 85,
+    "timeWeek": 85,
+    "timeMonth": 85,
+    "timeYear": 85,
     "dailyMinutesDown": {
-      "2025-09-12": 0
+      "2025-09-12": 14
     }
   },
   {
@@ -64,19 +64,19 @@
     "url": "prod-hermes-api.smarttravelit.com/hermes-services/internal/health",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "services-api",
-    "status": "down",
-    "uptime": "2.91%",
-    "uptimeDay": "2.91%",
-    "uptimeWeek": "2.91%",
-    "uptimeMonth": "2.91%",
-    "uptimeYear": "2.91%",
-    "time": 121,
-    "timeDay": 121,
-    "timeWeek": 121,
-    "timeMonth": 121,
-    "timeYear": 121,
+    "status": "up",
+    "uptime": "0.87%",
+    "uptimeDay": "0.87%",
+    "uptimeWeek": "0.87%",
+    "uptimeMonth": "0.87%",
+    "uptimeYear": "0.87%",
+    "time": 88,
+    "timeDay": 88,
+    "timeWeek": 88,
+    "timeMonth": 88,
+    "timeYear": 88,
     "dailyMinutesDown": {
-      "2025-09-12": 0
+      "2025-09-12": 14
     }
   },
   {
@@ -84,19 +84,19 @@
     "url": "prod-hermes-api.smarttravelit.com/hermes-shared/internal/health",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "shared-api",
-    "status": "down",
-    "uptime": "3.32%",
-    "uptimeDay": "3.32%",
-    "uptimeWeek": "3.32%",
-    "uptimeMonth": "3.32%",
-    "uptimeYear": "3.32%",
-    "time": 109,
-    "timeDay": 109,
-    "timeWeek": 109,
-    "timeMonth": 109,
-    "timeYear": 109,
+    "status": "up",
+    "uptime": "0.50%",
+    "uptimeDay": "0.50%",
+    "uptimeWeek": "0.50%",
+    "uptimeMonth": "0.50%",
+    "uptimeYear": "0.50%",
+    "time": 93,
+    "timeDay": 93,
+    "timeWeek": 93,
+    "timeMonth": 93,
+    "timeYear": 93,
     "dailyMinutesDown": {
-      "2025-09-12": 0
+      "2025-09-12": 14
     }
   }
 ]
