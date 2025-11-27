@@ -47,18 +47,19 @@
     "url": "prod-hermes-api.smarttravelit.com/hermes-sales/internal/health/status",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "sales-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.04%",
     "uptimeMonth": "99.40%",
     "uptimeYear": "99.76%",
     "time": 63,
-    "timeDay": 84,
+    "timeDay": 81,
     "timeWeek": 74,
-    "timeMonth": 60,
+    "timeMonth": 61,
     "timeYear": 63,
     "dailyMinutesDown": {
+      "2025-11-27": 0,
       "2025-11-20": 97,
       "2025-11-18": 167
     }
