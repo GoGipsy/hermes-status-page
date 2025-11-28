@@ -1,7 +1,7 @@
 url: prod-hermes-api.smarttravelit.com/hermes-shared/internal/health/status
 status: up
 code: 200
-responseTime: 86
-lastUpdated: 2025-11-27T23:03:09.407Z
+responseTime: 38
+lastUpdated: 2025-11-28T23:03:14.962Z
 startTime: 2025-09-12T15:53:45.467Z
 generator: Upptime <https://github.com/upptime/upptime>
